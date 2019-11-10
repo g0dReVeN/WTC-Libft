@@ -1,2 +1,2 @@
 # WTC-Libft
-RecreaNon of the C standard library. 
+Recreation of the C standard library. 
